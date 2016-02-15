@@ -1,7 +1,7 @@
 # Club-Media
 
-***THIS IS CURRENTLY UNDER-DEVELOPMENT***
-**DO NOT USE WITHOUT PERMISION**
+***THIS IS CURRENTLY UNDER-DEVELOPMENT: Pre-Alpha Stage***
+Do NOT clone this repository, as it is just full of placeholders at the moment, and you will waste ***hours*** of your time.
 
 Please use the Wiki for instructions on how to properly use this repository.
 
